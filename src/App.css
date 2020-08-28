@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+nav {
+  display: flex;
+  background-color: blue;
+  border: 10 px solid blue;
+  justify-content: space-around;
+}
+
+button {
+  background-color: lightblue;
+  font-size: 30px;
+  color: blue;
+  height: 40px;
+  border-radius: 10px;
+}
