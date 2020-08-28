@@ -45,8 +45,14 @@ nav {
 
 button {
   background-color: lightblue;
-  font-size: 30px;
   color: blue;
-  height: 40px;
-  border-radius: 10px;
+  height: 30px;
+  border-radius: 8px;
+}
+
+li {
+  list-style-type: none;
+}
+body {
+  background-color: paleturquoise;
 }
